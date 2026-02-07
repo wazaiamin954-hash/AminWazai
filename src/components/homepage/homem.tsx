@@ -39,7 +39,7 @@ export default function HomePage() {
               <span className="text-amber-500">Amin Wazai</span>
             </h1>
 
-            <h2 className="text-lg sm:text-2xl sm:ml-3 lg:text-3xl font-serif md:text-2xl dark:text-black md:ml-0">
+            <h2 className="text-[20px] sm:text-2xl sm:ml-3 lg:text-3xl font-serif md:text-2xl dark:text-black md:ml-0">
               {"And I'm a"}
 
               <span className="inline-block">
@@ -103,7 +103,7 @@ export default function HomePage() {
           </div>
 
           <div className="w-full md:w-1/2 flex justify-center">
-            <div className="relative w-64 h-80 sm:w-76 sm:h-98 rounded-2xl overflow-hidden shadow-2xl shadow-neutral-600  rounded-br-[25%] rounded-tl-[25%] lg:w-100  lg:h-100 lg:-mt-5">
+            <div className="relative w-74 h-85 sm:w-76 sm:h-98 rounded-2xl overflow-hidden shadow-2xl shadow-neutral-600  rounded-br-[25%] rounded-tl-[25%] lg:w-100  lg:h-100 lg:-mt-5">
               <Image
                 src={images[index]}
                 alt="profile"
