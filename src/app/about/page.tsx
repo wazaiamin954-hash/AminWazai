@@ -48,12 +48,15 @@ export default function AboutPage() {
           </div>
 
           <div className="flex justify-center">
-            <div className="relative md:w-88 md:h-88 h-70 w-70">
+            <div
+              className="relative md:w-92 md:h-98 h-76 w-76 
+            md:rounded-2xl"
+            >
               <Image
                 src="/wa.jpg"
                 alt="Full Stack Developer"
                 fill
-                className="object-fill  rounded-full border-4 border-neutral-700 shadow-lg"
+                className="object-fill  rounded-full md:rounded-[3px] border-4 border-neutral-700 shadow-lg"
               />
             </div>
           </div>
