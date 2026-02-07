@@ -34,12 +34,12 @@ export default function HomePage() {
       <div className="max-w-7xl mx-auto px-1  sm:px-6 lg:px-12 md:mt-21">
         <div className="flex flex-col-reverse md:flex-row items-center md:items-start gap-10">
           <div className="w-full md:w-1/2 flex flex-col gap-4 md:text-left   sm:text-3xl">
-            <h1 className="text-[19px] sm:text-3xl lg:text-3xl font-extrabold tracking-wide sm:pl-2 md:text-2xl dark:text-black md:-ml-1">
+            <h1 className="text-[21px] sm:text-3xl lg:text-3xl font-extrabold tracking-wide sm:pl-2 md:text-2xl dark:text-black md:-ml-1">
               {" Hello, It's Me"}{" "}
               <span className="text-amber-500">Amin Wazai</span>
             </h1>
 
-            <h2 className="text-[20px] sm:text-2xl sm:ml-3 lg:text-3xl font-serif md:text-2xl dark:text-black md:ml-0">
+            <h2 className="text-[21px] sm:text-2xl sm:ml-3 lg:text-3xl font-serif md:text-2xl dark:text-black md:ml-0">
               {"And I'm a"}
 
               <span className="inline-block">
@@ -57,7 +57,7 @@ export default function HomePage() {
               <span className="font-serif inline "> Bost University.</span>
             </p>
 
-            <div className="flex justify-center md:justify-start gap-4 mt-3">
+            <div className="flex justify-center md:justify-start gap-6 mt-3">
               <a
                 href="https://www.facebook.com/AminWazai"
                 className="p-2 rounded-xl bg-sky-900 text-white hover:scale-110 transition"
@@ -103,7 +103,7 @@ export default function HomePage() {
           </div>
 
           <div className="w-full md:w-1/2 flex justify-center">
-            <div className="relative w-74 h-85 sm:w-76 sm:h-98 rounded-2xl overflow-hidden shadow-2xl shadow-neutral-600  rounded-br-[25%] rounded-tl-[25%] lg:w-100  lg:h-100 lg:-mt-5">
+            <div className="relative w-78 h-90 sm:w-76 sm:h-98 rounded-2xl overflow-hidden shadow-2xl shadow-neutral-600  rounded-br-[25%] rounded-tl-[25%] lg:w-100  lg:h-100 lg:-mt-5">
               <Image
                 src={images[index]}
                 alt="profile"

@@ -8,7 +8,7 @@ export default function AboutPage() {
           About Me
         </h2>
 
-        <div className="grid md:grid-cols-2 gap-12 items-center">
+        <div className="flex flex-col-reverse md:flex-row gap-12 items-center">
           <div className="space-y-6">
             <p className="text-gray-300 leading-relaxed dark:text-neutral-800">
               I am a passionate{" "}

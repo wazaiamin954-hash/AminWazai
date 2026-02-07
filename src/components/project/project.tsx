@@ -28,16 +28,16 @@ export function ProjectPage() {
               stores.
             </p>
 
-            <div className="flex flex-wrap  gap-3  text-sm font-medium mb-4">
-              <span className="bg-pink-600 px-2 py-1 rounded-full">HTML</span>
-              <span className="bg-pink-600 px-2 py-1 rounded-full">
+            <div className="flex flex-wrap  gap-2  text-sm font-medium mb-4">
+              <span className="bg-amber-600 px-2 py-1 rounded-full">HTML</span>
+              <span className="bg-amber-600 px-2 py-1 rounded-full">
                 TypeScript
               </span>
-              <span className="bg-pink-600 px-2 py-1 rounded-full">
+              <span className="bg-amber-600 px-2 py-1 rounded-full">
                 Next.js
               </span>
 
-              <span className="bg-pink-600 md:px-2 md:py-1 px-6 py-1 rounded-full">
+              <span className="bg-amber-600 md:px-2 md:py-1 px-6 py-1 rounded-full">
                 Tailwind CSS
               </span>
             </div>
@@ -69,11 +69,11 @@ export function ProjectPage() {
             </p>
 
             <div className="flex flex-wrap gap-3 text-sm font-medium mb-4">
-              <span className="bg-pink-600 px-2 py-1 rounded-full">HTML</span>
-              <span className="bg-pink-600 px-2 py-1 rounded-full">
+              <span className="bg-amber-600 px-2 py-1 rounded-full">HTML</span>
+              <span className="bg-amber-600 px-2 py-1 rounded-full">
                 JavaScript
               </span>
-              <span className="bg-pink-600 px-2 py-1 rounded-full">
+              <span className="bg-amber-600 px-2 py-1 rounded-full">
                 Next.js
               </span>
             </div>
@@ -96,9 +96,9 @@ export function ProjectPage() {
             </p>
 
             <div className="flex flex-wrap gap-3 text-sm font-medium mb-4">
-              <span className="bg-pink-600 px-2 py-1 rounded-full">HTML</span>
-              <span className="bg-pink-600 px-2 py-1 rounded-full">CSS3</span>
-              <span className="bg-pink-600 px-2 py-1 rounded-full">
+              <span className="bg-amber-600 px-2 py-1 rounded-full">HTML</span>
+              <span className="bg-amber-600 px-2 py-1 rounded-full">CSS3</span>
+              <span className="bg-amber-600 px-2 py-1 rounded-full">
                 JavaScript
               </span>
             </div>

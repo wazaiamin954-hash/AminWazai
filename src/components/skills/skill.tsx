@@ -140,7 +140,7 @@ export function SkillPage() {
               </span>
             </div>
             <div
-              className="md:mt-4 lg:mt-6 mt-6 border-2 border-amber-500 rounded-2xl px-0 py-3 md:px-2 md:py-3 hover:bg-sky-400
+              className="md:mt-4 lg:mt-6 mt-6 border-2 border-amber-500 rounded-2xl px-2 py-3 md:px-2 md:py-3 hover:bg-sky-400
             lg:px-5 lg:py-6"
             >
               <span className="sm:text-2xl sm:font-serif sm:tracking-widest ">

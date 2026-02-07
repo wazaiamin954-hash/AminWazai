@@ -111,7 +111,7 @@ export default function ContactForm() {
         <button
           type="submit"
           disabled={loading}
-          className="w-full flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 transition py-2 rounded font-medium"
+          className="w-full flex items-center justify-center gap-2 bg-sky-400 hover:bg-blue-700 transition py-2 rounded font-medium"
         >
           <FaPaperPlane />
           {loading ? "Sending..." : "Send Message"}
